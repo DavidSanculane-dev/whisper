@@ -1,4 +1,4 @@
-# Model Card: Whisper
+# Model Card: Rustle
 
 This is the official codebase for running the automatic speech recognition (ASR) models (Whisper models) trained and released by OpenAI.
 
